@@ -1,0 +1,6 @@
+# SSL error
+git config --global http.sslVerify false
+# User email
+git config user.email "jbaltop@gmail.com"
+# User Name
+git config user.name "Hajun Park"
