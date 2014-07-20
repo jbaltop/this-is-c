@@ -12,3 +12,9 @@ git commit
 
 # Push into the github
 git push
+
+# Log
+git log
+
+# Short log
+git shortlog
