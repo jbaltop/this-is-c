@@ -1,0 +1,14 @@
+# Clone the repository
+git clone <repository name>
+
+# Show the current status
+git status
+
+# Copy files to the staging area
+git add <file names>
+
+# Commit
+git commit
+
+# Push into the github
+git push
