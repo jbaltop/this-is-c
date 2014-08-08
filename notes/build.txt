@@ -1,0 +1,8 @@
+# comfile
+cc -o executable_file_name c_program_name
+
+# execute
+./executable_file_name
+
+# show the result
+echo $?
