@@ -1,8 +1,0 @@
-# last previous argument
-echo !$
-
-# last previous command
-echo !!
-
-# diff
-diff a b
