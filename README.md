@@ -1,6 +1,4 @@
-c-practice
-==========
+# This is C
 
-C Practice
-
-The main purpose is just programming practice.
+## References
+* "이것이 C 언어다, 서현우의 C 프로그래밍 정복" 서현우 지음
