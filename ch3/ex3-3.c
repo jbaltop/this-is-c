@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: use character variables */
-
 #include <stdio.h>
 
 int main (void)

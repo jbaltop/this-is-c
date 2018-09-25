@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: a program which prints float constant (exponent) */ 
-
 #include <stdio.h>
 
 int main(void)

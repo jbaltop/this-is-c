@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: declare and use variables */
-
 #include <stdio.h>
 
 int main (void)

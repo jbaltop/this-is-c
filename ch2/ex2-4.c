@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: a program which prints integer and float */ 
-
 #include <stdio.h>
 
 int main(void)

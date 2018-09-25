@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: copy string into character array */
-
 #include <stdio.h>
 #include <string.h>
 

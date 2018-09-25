@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: check the effective numbers*/
-
 #include <stdio.h>
 
 int main (void)

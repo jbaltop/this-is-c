@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: store string into character array */
-
 #include <stdio.h>
 
 int main (void)

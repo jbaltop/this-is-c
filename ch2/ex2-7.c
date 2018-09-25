@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: a program which prints character and string constant */ 
-
 #include <stdio.h>
 
 int main(void)

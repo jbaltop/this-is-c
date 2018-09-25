@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: straight input uisng scanf */
-
 #include <stdio.h>
 
 int main (void)

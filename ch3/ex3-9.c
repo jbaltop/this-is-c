@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: contstant variable */
-
 #include <stdio.h>
 
 int main (void)

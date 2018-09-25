@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: incorrect unsigned */
-
 #include <stdio.h>
 
 int main (void)

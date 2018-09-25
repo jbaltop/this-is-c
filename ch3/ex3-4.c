@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: use integer variables */
-
 #include <stdio.h>
 
 int main (void)

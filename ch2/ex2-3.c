@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: a program which prints several strings with control characters */ 
-
 #include <stdio.h>
 
 int main(void)

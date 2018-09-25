@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: character and string */
-
 #include <stdio.h>
 
 int main (void)

@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: display garbage value and initialize */
-
 #include <stdio.h>
 
 int main (void)

@@ -1,6 +1,3 @@
-/* author: Hajun Park
-   title: keyboard input using scanf */
-
 #include <stdio.h>
 
 int main (void)
